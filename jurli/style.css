@@ -1,0 +1,40 @@
+body, html{
+    height: 100%;
+    margin: 0;
+}
+
+#display{
+    float: right;
+    width: 40%;
+    height: 95%;
+    border: solid 1px black;
+    font-size: medium;
+    overflow: auto;
+}
+
+#textarea{
+    width: 40%;
+    height: 95%
+}
+
+
+
+.any{
+    font-family: Sans-Serif;
+    font-size: medium;
+}
+
+.bhat{
+    font-family: Bhaataan-HighContrast;
+    font-size: medium;
+}
+
+.paige{
+    font-family: Paige;
+    font-size: medium;
+}
+
+.lineparine{
+    font-family: DytysnLiparshe;
+    font-size: medium;
+}
